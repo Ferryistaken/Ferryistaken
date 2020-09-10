@@ -20,6 +20,6 @@ This is where I have fun and fuel open source evangelism.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferryistaken&layout=compact&hide=css,html)
-
+![Ferry's github stats](https://github-readme-stats.vercel.app/api?username=Ferryistaken&count_private=true&show_icons=true&theme=onedark)
 
 </details>
