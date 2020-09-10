@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ferry</h1>
-<h3 align="center">An highschooler who codes as an hobby</h3>
+<h3 align="center">Your average FOSS evangelist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferryistaken" alt="ferryistaken" /> </p>
+
+![visits](https://komarev.com/ghpvc/?username=ferryistaken)
+[![github](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@Ferryistaken&color=5b5b5b&labelColor=5b5b5b)](https://github.com/Ferryistaken)
+[![stackoverflow](https://img.shields.io/static/v1?style=flat-square&logo=stackoverflow&label=&message=@Ferryistaken&color=5b5b5b&labelColor=5b5b5b)](https://stackoverflow.com/users/4494083/Ferryistaken)
+![LeetCode progress](https://leetcode-badge.chyroc.cn/?name=Ferryistaken&refresh=true) </p>
 
 - 🌱 I’m currently learning **Rust**
 
