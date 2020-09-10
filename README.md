@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Ferryistaken?tab=repositories)
 
-- 📝 I regulary write articles on [ferrry.tk](https://ferrry.tk)
+- 📝 I regulary(yeah right) write articles on [ferrry.tk](https://ferrry.tk)
 
 - 📫 How to reach me **alessandroferry@protonmail.com**
 
