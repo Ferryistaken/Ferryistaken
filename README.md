@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://ferrry.tk](https://github.com/Ferryistaken?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/Ferryistaken?tab=repositories)
 
-- 📝 I regulary write articles on [https://ferrry.tk](https://ferrry.tk)
+- 📝 I regulary write articles on [ferrry.tk](https://ferrry.tk)
 
 - 📫 How to reach me **alessandroferry@protonmail.com**
 
