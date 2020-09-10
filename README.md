@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://ferrry.tk](https://ferrry.tk)
+- 👨‍💻 All of my projects are available at [https://ferrry.tk](https://github.com/Ferryistaken?tab=repositories)
 
 - 📝 I regulary write articles on [https://ferrry.tk](https://ferrry.tk)
 
