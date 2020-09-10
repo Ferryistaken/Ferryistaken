@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-<!--
-**Ferryistaken/Ferryistaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+This is where I have fun and fuel open source evangelism.
+<br>
+<br>
 
-Here are some ideas to get you started:
+📫  How to reach me?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![github](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@Ferryistaken&color=5b5b5b&labelColor=5b5b5b)](https://github.com/Ferryistaken)
+[![stackoverflow](https://img.shields.io/static/v1?style=flat-square&logo=stackoverflow&label=&message=@Ferryistaken&color=5b5b5b&labelColor=5b5b5b)](https://stackoverflow.com/users/4494083/Ferryistaken)
+![LeetCode progress](https://leetcode-badge.chyroc.cn/?name=Ferryistaken&refresh=true)
+
+☁️ My website <br>
+- [Live Site](https://ferrry.tk)
+- [Source Code](https://github.com/Ferryistaken/blog)
+<details>
+<summary>⚡️ More cool widgets ⚡</summary>
+<br />
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferryistaken&layout=compact&hide=css,html)
+
+
+</details>
