@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferry</h1>
-<h3 align="center">Your average FOSS evangelist</h3>
+<h3 align="center">FOSS evangelist</h3>
 
 
 ![visits](https://komarev.com/ghpvc/?username=ferryistaken)
