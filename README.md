@@ -7,7 +7,7 @@
 [![stackoverflow](https://img.shields.io/static/v1?style=flat-square&logo=stackoverflow&label=&message=@Ferryistaken&color=5b5b5b&labelColor=5b5b5b)](https://stackoverflow.com/users/11107045/alessandro-ferrari)
 ![LeetCode progress](https://leetcode-badge.chyroc.cn/?name=Ferryistaken&refresh=true) </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Ferryistaken?tab=repositories)
 
