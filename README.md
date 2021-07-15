@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Ferryistaken?tab=repositories)
 
-- 📝 I have a blog: [ferrry.tk](https://ferrry.tk)
+- 📝 I have a blog: [ferry.ml](https://ferry.ml)
 
 - 📫 How to reach me **alessandro.ferrari.2004@gmail.com**
 
