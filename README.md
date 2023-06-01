@@ -1,23 +1,4 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">Real Programmers use butterflies<a href=https://xkcd.com/378/> (xkcd)</a></h3>
-
-
-![visits](https://komarev.com/ghpvc/?username=ferryistaken)
-[![github](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@Ferryistaken&color=5b5b5b&labelColor=5b5b5b)](https://github.com/Ferryistaken)
-[![stackoverflow](https://img.shields.io/static/v1?style=flat-square&logo=stackoverflow&label=&message=@Ferryistaken&color=5b5b5b&labelColor=5b5b5b)](https://stackoverflow.com/users/11107045/alessandro-ferrari)
-</p>
-
-- 🌱 I’m currently learning **React Native**
-
-- 🐧 [Rocky Linux](https://rockylinux.org) Contributor
-
-- 👨‍💻 All of my projects are available at [github](https://github.com/Ferryistaken?tab=repositories)
-
-- 📝 I have a blog: [ferry.ml](https://ferry.ml)
-
-- 📫 How to reach me **alessandro.ferrari.2004@gmail.com**
-
-
+![xkcd](https://imgs.xkcd.com/comics/real_programmers.png)
 
 ![Ferry's github stats](https://github-readme-stats.vercel.app/api?username=Ferryistaken&count_private=true&show_icons=true&theme=gradient)
 <p align="center">
